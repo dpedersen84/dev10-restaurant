@@ -4,9 +4,35 @@
   height: 500px;
 }
 
-/* .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-} */
+body {
+  margin-bottom: 60px;
+  background-color: whitesmoke;
+}
+
+.menu {
+  background-color: whitesmoke;
+}
+
+.title {
+  font-family: "Cinzel", serif;
+}
+
+a:hover {
+  font-weight: bolder;
+}
+
+a:visited {
+  color: black;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.fa-home {
+  color: white;
+}
+
+.menu-item {
+  font-family: "Fjalla One", sans-serif;
+}
